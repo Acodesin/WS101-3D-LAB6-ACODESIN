@@ -1,4 +1,3 @@
 # WS101-3D-LAB6-ACODESIN
-<<<<<<< HEAD
 Web System Lab 6 Project by F.A.
 #MYPROJECT-WS101-3D-LAB6-ACODESIN
